@@ -20,7 +20,7 @@
 ## How to Use
 
 1. **Download the Executable**:
-   - Download the `.exe` file from the [Releases](#) section of this repository.
+   - Download the `.exe` file from the [Releases](https://github.com/jerankda/shutdown_control/releases/tag/release) section of this repository.
    - No installation required; just run the executable directly.
 
 2. **Set the Timer**:
